@@ -1,4 +1,4 @@
-# image_search_engine
+# Image search engine
 
 This program was used for a Kaggle challenge to create the highest accurate match of a text description and a corresponding photo.  I was part of a 3 person team where each person implemented a different algorithm, and at the
 end we performed an ensemble optimization to achieve better results.  The following is my implementation using word2vec.
